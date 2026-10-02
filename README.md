@@ -32,4 +32,4 @@ O objetivo principal é traduzir dados brutos em personas de negócio claras, pe
 
 ## 📊 Visualização de Resultados
 O script gera gráficos de dispersão analíticos que mapeiam os clusters identificados pelo algoritmo:
-![Visualização dos Clusters](images.png)
+![Visualização dos Clusters](Gráfico.png)
